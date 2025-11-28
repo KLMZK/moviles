@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "unidad2",
-    "slug": "unidad2",
+    "name": "tiendaApp",
+    "slug": "tiendaApp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
